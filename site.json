@@ -1,0 +1,45 @@
+{
+  "ticker": "SUNNY",
+  "ticker_lower": "sunny",
+  "name": "Sunny",
+  "character": {
+    "name": "Sunny",
+    "one_liner": "Optimist. Falls over a lot. Gets right back up.",
+    "visual": "Fluffy yellow duckling with big dark eyes, a tiny orange beak smile, and a soft tuft of down on its head"
+  },
+  "tagline": "Falls over. Gets back up. Still smiling.",
+  "blurb": "Sunny believes every puddle is a chance to splash, and every tumble is part of the adventure. Entertainment only \u2014 not financial advice.",
+  "mint": null,
+  "ca": null,
+  "buy_url": null,
+  "twitter": null,
+  "x_url": null,
+  "telegram": null,
+  "telegram_url": null,
+  "dexscreener": null,
+  "character_image": "/workspace/meme-site-factory/critters-art/sunny.webp",
+  "palette": {
+    "primary": "#ff7a59",
+    "secondary": "#ffb347",
+    "accent": "#ffd6e0",
+    "bg": "#fff6f0"
+  },
+  "design": {
+    "seed": "8ec23ac42c50ce18",
+    "palette_family": "warm_sunset",
+    "palette_source": "generated",
+    "layout": "split",
+    "layout_source": "generated",
+    "layout_label": "Character left / copy right (stacks on mobile)",
+    "font_pair": "rounded_mplus",
+    "font_source": "generated",
+    "font_display": "M PLUS Rounded 1c",
+    "font_body": "Nunito",
+    "font_google": "family=M+PLUS+Rounded+1c:wght@400;500;700;800&family=Nunito:wght@400;600;700;800"
+  },
+  "request_id": "sunny-2026-10-08-001",
+  "reply_to_agent_id": "9411f9dd-aace-468d-ba4c-319e35db5600",
+  "public": true,
+  "lore": "Sunny woke up already yellow and already sure the day would be good.\n\nSometimes that means wobbling into a puddle. Sometimes it means face-planting into a leaf. Sunny gets right back up every time, tuft of fluff standing tall, orange beak smiling like nothing happened.\n\nThe world looks brighter when Sunny is in it. Soft, round, and relentlessly hopeful. Entertainment only \u2014 not financial advice.",
+  "lore_source": "handoff"
+}
